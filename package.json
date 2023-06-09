@@ -1,0 +1,17 @@
+{
+  "name": "@uppercod/clean-terminal",
+  "version": "1.0.0",
+  "description": "Utility to close processes once terinal escapes",
+  "type": "module",
+  "main": "index.js",
+  "module": "index.js",
+  "exports": {
+    ".": "./index.js"
+  },
+  "types": "./index.d.ts",
+  "author": "UpperCod",
+  "license": "ISC",
+  "publishConfig": {
+    "access": "public"
+  }
+}
